@@ -3,7 +3,7 @@ var router = express.Router();
 
 //pg config
 var pg = require('pg');
-var conString = 'postgres://postgres:postgres@cap-sg-prd-3.integration.ibmcloud.com:17545/postgres';
+var conString = 'postgres://postgres:postgres@XXXXX:YYYYY/postgres';
 
 //Users
 //get all users
