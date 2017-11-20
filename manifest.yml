@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: hmdemoappns 
-  host: hmdemoappns
+  name: <nombre><apellido>demo 
+  host: <nombre><apellido>dem
   disk_quota: 1024M
